@@ -229,5 +229,16 @@ footer {
 	.about {
 		width: 100%;
 	}
+	.services {
+		width: 100%;
+		padding-bottom: 5%;
+	}
+	.product {
+		width: 100%;
+		padding-bottom: 5%;
+	}
+	.vision {
+		width: 100%;
+	}
 }
 
